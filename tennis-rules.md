@@ -477,9 +477,9 @@ For  matches  where  officials  are  appointed,  their  roles  and  responsibili
 As a principle, play should be continuous, from the time the match starts (when the first service of the match is put in play) until the match finishes.
 
 - a. Between points, a maximum of twenty-five (25) seconds is allowed. When the players change ends at the end of a game, a maximum of ninety (90) seconds are allowed. However, after the first game of each set and during a tie-break game, play shall be continuous and the players shall change ends without a rest.
-- At the end of each set there shall be a set break of a maximum of one hundred and twenty (120) seconds.
-- The maximum time starts from the moment that one point finishes until the first service is struck for the next point.
-- Event organisers may apply for ITF approval to extend the ninety (90) seconds allowed when the players change ends at the end of a game and the one hundred and twenty (120) seconds allowed at a set break.
+  - At the end of each set there shall be a set break of a maximum of one hundred and twenty (120) seconds.
+  - The maximum time starts from the moment that one point finishes until the first service is struck for the next point.
+  - Event organisers may apply for ITF approval to extend the ninety (90) seconds allowed when the players change ends at the end of a game and the one hundred and twenty (120) seconds allowed at a set break.
 - b. If,  for  reasons  outside  the  player's  control,  clothing,  footwear  or  necessary equipment (excluding the racket) is broken or needs to be replaced, the player may be allowed reasonable extra time to rectify the problem.
 - c. No extra time shall be given to allow a player to recover condition. However, a player suffering from a treatable medical condition may be allowed one medical time-out of three minutes for the treatment of that medical condition. A limited number of toilet/change of attire breaks may also be allowed, if this is announced in advance of the event.
 - d. Event organisers may allow a rest period of a maximum of ten (10) minutes if this is announced in advance of the event. This rest period can be taken after the 3rd set in a best of 5 sets match, or after the 2nd set in a best of 3 sets match.
