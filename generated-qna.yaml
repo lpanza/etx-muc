@@ -1,0 +1,986 @@
+seed_examples:
+  - context: |-
+      The International Tennis Federation shall rule on the question of whether any
+      ball or prototype complies with Appendix I or is otherwise approved; or not
+      approved; for play. Such ruling may be taken on its own initiative or upon
+      application by any party with a bona fide interest therein; including any
+      player; equipment manufacturer or National Association or members thereof: Such
+      rulings and applications shall be made in accordance with the applicable Review
+      and Hearing Procedures of the International Tennis Federation (see Appendix
+      XIII.
+    questions_and_answers:
+      - question: |-
+          Who can make an application to the International Tennis Federation regarding the
+          approval or disapproval of a ball or prototype?
+        answer: |-
+          Any player, equipment manufacturer, National Association or members thereof can
+          make an application to the International Tennis Federation regarding the
+          approval or disapproval of a ball or prototype.
+      - question: |-
+          What are the entities that can initiate a ruling or make an application to the
+          International Tennis Federation regarding the compliance of a ball or prototype
+          with Appendix I?
+        answer: |-
+          The entities that can initiate a ruling or make an application to the
+          International Tennis Federation regarding the compliance of a ball or prototype
+          with Appendix I are any player, equipment manufacturer, National Association or
+          members thereof.
+      - question: |-
+          Based on the provided context, why might a player or an equipment manufacturer
+          have a bona fide interest in the approval or disapproval of a ball or prototype
+          by the International Tennis Federation?
+        answer: |-
+          A player or an equipment manufacturer might have a bona fide interest in the
+          approval or disapproval of a ball or prototype by the International Tennis
+          Federation because the ruling could affect their performance or product's usage
+          in tennis matches.
+  - context: |-
+      Rule 1, FOREWORD = THE COURT. Rule 1, 1 = 2. Rule 2, FOREWORD = PERMANENT
+      FIXTURES. Rule 2, 1 = 3. Rule 3, FOREWORD = THE BALL. Rule 3, 1 = 3. Rule 4,
+      FOREWORD = THE RACKET. Rule 4, 1 = 4. Rule 5, FOREWORD = SCORE IN A GAME. Rule
+      5, 1 = 5. Rule 6, FOREWORD = SCORE IN A SET. Rule 6, 1 = 6. Rule 7, FOREWORD =
+      SCORE IN A MATCH. Rule 7, 1 = 6. Rule 8, FOREWORD = SERVER AND RECEIVER. Rule 8,
+      1 = 6. Rule 9, FOREWORD = CHOICE OF ENDS AND SERVICE. Rule 9, 1 = 6. Rule 10,
+      FOREWORD = CHANGE OF ENDS. Rule 10, 1 = 7. Rule 11, FOREWORD = BALL IN PLAY.
+      Rule 11, 1 = 7. Rule 12, FOREWORD = BALL TOUCHES A LINE. Rule 12, 1 = 7. Rule
+      13, FOREWORD = BALL TOUCHES A PERMANENT FIXTURE. Rule 13, 1 = 7. Rule 14,
+      FOREWORD = ORDER OF SERVICE. Rule 14, 1 = 7. Rule 15, FOREWORD = ORDER OF
+      RECEIVING IN DOUBLES. Rule 15, 1 = 7. Rule 16, FOREWORD = THE SERVICE. Rule 16,
+      1 = 8. Rule 17, FOREWORD = SERVING. Rule 17, 1 = 8. Rule 18, FOREWORD = FOOT
+      FAULT. Rule 18, 1 = 8. Rule 19, FOREWORD = SERVICE FAULT. Rule 19, 1 = 8. Rule
+      20, FOREWORD = SECOND SERVICE. Rule 20, 1 = 9. Rule 21, FOREWORD = WHEN TO SERVE
+      AND RECEIVE. Rule 21, 1 = 9. Rule 22, FOREWORD = THE LET DURING A SERVICE. Rule
+      22, 1 = 9. Rule 23, FOREWORD = THE LET. Rule 23, 1 = 9. Rule 24, FOREWORD =
+      PLAYER LOSES POINT. Rule 24, 1 = 10. Rule 25, FOREWORD = A GOOD RETURN. Rule 25,
+      1 = 11. Rule 26, FOREWORD = HINDRANCE. Rule 26, 1 = 12. Rule 27, FOREWORD =
+      CORRECTING ERRORS. Rule 27, 1 = 12. Rule 28, FOREWORD = ROLE OF COURT OFFICIALS.
+      Rule 28, 1 = 13. Rule 29, FOREWORD = CONTINUOUS PLAY. Rule 29, 1 = 14. Rule 30,
+      FOREWORD = COACHING. Rule 30, 1 = 14. Rule 31, FOREWORD = PLAYER ANALYSIS
+      TECHNOLOGY. Rule 31, 1 = 15. , FOREWORD = RULES OF WHEELCHAIR TENNIS. , 1 = 16.
+      , FOREWORD = AMENDMENT TO THE RULES OF TENNIS. , 1 = 18. Appendix I, FOREWORD =
+      THE BALL. Appendix I, 1 = 19. , FOREWORD = CLASSIFICATION OF COURT SURFACE PACE.
+      , 1 = 20  22. Appendix II, FOREWORD = THE RACKET. Appendix II, 1 = . Appendix
+      III, FOREWORD = PLAYER ANALYSIS TECHNOLOGY. Appendix III, 1 = 23. Appendix IV,
+      FOREWORD = COACHING. Appendix IV, 1 = 24. Appendix V, FOREWORD = ADVERTISING.
+      Appendix V, 1 = 25. Appendix VI, FOREWORD = ALTERNATIVE PROCEDURES AND SCORING
+      METHODS. Appendix VI, 1 = . Appendix VII, FOREWORD = ROLE OF COURT OFFICIALS.
+      Appendix VII, 1 = 28. Appendix VIII, FOREWORD = 10 AND UNDER TENNIS COMPETITION.
+      Appendix VIII, 1 = 32. Appendix IX, FOREWORD = PLAN OF THE COURT. Appendix IX, 1
+      = 33. Appendix X, FOREWORD = SUGGESTIONS ON HOW TO MARK A COURT. Appendix X, 1 =
+      34. Appendix XI, FOREWORD = RULES OF BEACH TENNIS. Appendix XI, 1 = 37. Appendix
+      XII, FOREWORD = PROCEDURES FOR REVIEW AND HEARINGS. Appendix XII, 1 = 38
+    questions_and_answers:
+      - question: What is the score in a game according to Rule 5, 1?
+        answer: '5'
+      - question: What are the scores in a game, set, and match according to the rules
+          provided?
+        answer: Score in a game is 5, in a set is 6, and in a match is also 6.
+      - question: |-
+          Based on the rules provided, if a player loses a point, they lose the game. How
+          many points does a player need to win a game?
+        answer: A player needs 5 points to win a game, with a margin of at least 2
+          points.
+  - context: "The court shall be divided across the middle by a net suspended by a\
+      \ cord or\nmetal cable which shall pass over or be attached to two net posts\
+      \ at a height of\n3 \xBD feet (1.07 m). The net shall be fully extended so that\
+      \ it completely fills\nthe space between the  two  net  posts,  and  it  must\
+      \  be  of  sufficiently\nsmall  mesh  to  ensure  that  a  ball cannot pass\
+      \ through it. The height of the\nnet shall be 3 feet (0.914 m) at the centre,\
+      \ where it shall be held down tightly\nby a strap. A band shall cover the cord\
+      \ or metal cable and the top of the net.\nThe strap and band shall be completely\
+      \ white."
+    questions_and_answers:
+      - question: What is the height of the net at the center?
+        answer: The height of the net at the center is 3 feet (0.914 m).
+  - context: |-
+      The International Tennis Federation shall rule on the question of whether any
+      ball or prototype complies with Appendix I or is otherwise approved, or not
+      approved, for play. Such ruling may be taken on its own initiative or upon
+      application by any party with a bona fide interest therein, including  any
+      player, equipment manufacturer or National  Association  or  members  thereof.
+      Such  rulings  and  applications  shall  be made  in  accordance  with  the
+      applicable  Review  and  Hearing  Procedures  of  the International Tennis
+      Federation (see Appendix XII).
+    questions_and_answers:
+      - question: |-
+          Who can make an application to the International Tennis Federation regarding the
+          approval or non-approval of a ball or prototype?
+        answer: |-
+          Any player, equipment manufacturer, National Association, or members thereof can
+          make an application to the International Tennis Federation regarding the
+          approval or non-approval of a ball or prototype.
+      - question: |-
+          What are the parties that can initiate a ruling or make an application to the
+          International Tennis Federation regarding the compliance of a ball or prototype
+          with Appendix I?
+        answer: |-
+          The parties that can initiate a ruling or make an application to the
+          International Tennis Federation regarding the compliance of a ball or prototype
+          with Appendix I include any player, equipment manufacturer, National
+          Association, or members thereof.
+      - question: |-
+          Based on the provided context, why might a player or an equipment manufacturer
+          have a bona fide interest in the approval or non-approval of a ball or prototype
+          by the International Tennis Federation?
+        answer: |-
+          A player or an equipment manufacturer might have a bona fide interest in the
+          approval or non-approval of a ball or prototype by the International Tennis
+          Federation because the ruling could affect their performance, product quality,
+          or market reputation in the sport of tennis.
+  - context: |-
+      The International Tennis Federation shall rule on the question of whether any
+      racket or prototype complies with Appendix II or is otherwise approved, or not
+      approved, for play. Such ruling may be undertaken on its own initiative or upon
+      application by any  party  with  a  bona  fide  interest  therein,  including
+      any  player,  equipment manufacturer  or National Association or members
+      thereof.  Such  rulings and applications  shall  be  made  in  accordance  with
+      the  applicable  Review  and  Hearing Procedures of the International Tennis
+      Federation (see Appendix XII).
+    questions_and_answers:
+      - question: |-
+          Who can request a ruling from the International Tennis Federation regarding
+          racket compliance with Appendix II?
+        answer: |-
+          Any player, equipment manufacturer, National Association or members thereof with
+          a bona fide interest.
+      - question: |-
+          What are the possible outcomes when the International Tennis Federation rules on
+          the compliance of a racket or prototype with Appendix II?
+        answer: |-
+          The racket or prototype can be approved, not approved, or deemed non-compliant
+          with Appendix II.
+      - question: |-
+          Under what circumstances can the International Tennis Federation independently
+          decide to rule on the compliance of a racket or prototype with Appendix II?
+        answer: |-
+          The International Tennis Federation can rule on its own initiative when it deems
+          necessary.
+  - context: |-
+      In  doubles,  the  team  due  to  serve  in  the  first  game  of  each  set
+      shall  decide  which player  shall  serve  for  that  game.  Similarly,  before
+      the  second  game  starts,  their opponents  shall  decide  which  player  shall
+      serve  for  that  game.  The  partner  of  the player who served in the first
+      game shall serve in the third game and the partner of the  player  who  served
+      in  the  second  game  shall  serve  in  the  fourth  game.  This rotation shall
+      continue until the end of the set.
+    questions_and_answers:
+      - question: Who serves in the first game of a set in doubles?
+        answer: |-
+          The team due to serve in the first game of each set in doubles decides which
+          player shall serve for that game.
+      - question: |-
+          If the partner of the player who served in the first game serves in the third
+          game, what can be inferred about the service pattern in the remaining games?
+        answer: |-
+          The partner of the player who serves in the second game must serve in the fourth
+          game, following the pattern of alternating service between teams.
+  - context: |-
+      The team which is due to receive in the first game of a set shall decide which
+      player shall  receive  the  first  point  in  the  game.  Similarly,  before
+      the  second  game  starts, their opponents shall decide which player shall
+      receive the first point of that game. The player who was the receiver's partner
+      for the first point of the game shall receive the second point and this rotation
+      shall continue until the end of the game and the set. After the receiver has
+      returned the ball, either player in a team can hit the ball.
+    questions_and_answers:
+      - question: Who decides which player receives the first point in the second
+          game?
+        answer: The opponents of the team that received in the first game.
+      - question: If a team is serving, can both players hit the ball before it is
+          returned?
+        answer: |-
+          No, only after the receiver has returned the ball can either player in a team
+          hit it.
+  - context: |-
+      a. The player serves two consecutive faults; or
+      b. The player does not return the ball in play before it bounces twice consecutively; or
+      c. The player returns the ball in play so that it hits the ground or, before it bounces, an object outside the correct court; or
+      d. The player returns the ball in play so that, before it bounces, it hits a permanent fixture; or
+      e. The receiver returns the service before it bounces; or
+      f. The  player  deliberately  carries  or  catches  the  ball  in  play  on  the  racket  or deliberately touches it with the racket more than once; or
+      g. The player or the racket, whether in the player's hand or not, or anything which the player is wearing or carrying touches the net, net posts/singles sticks, cord or metal cable, strap or band, or the opponent's court at any time while the ball is in play; or
+      h. The player hits the ball before it has passed the net; or
+      i. The  ball  in  play  touches  the  player  or  anything  that  the  player  is  wearing  or carrying, except the racket; or
+      j. The ball in play touches the racket when the player is not holding it; or
+      k. The player deliberately and materially changes the shape of the racket when the ball is in play; or
+      l. In doubles, both players touch the ball when returning it.
+    questions_and_answers:
+      - question: What happens if a player catches the ball in play on the racket
+          deliberately?
+        answer: The player loses the point.
+      - question: |-
+          If a player's racket or anything they are wearing or carrying touches the net or
+          opponent's court while the ball is in play, what will happen?
+        answer: The player will lose the point.
+  - context: |-
+      a. The ball touches the net, net  posts/singles sticks,  cord  or  metal  cable,  strap  or band,  provided  that  it  passes  over  any  of  them  and  hits  the  ground  within  the correct court; except as provided in Rule 2 and 24 (d); or
+      b. After the ball in play has hit the ground within the correct court and has spun or been blown back over the net, the player reaches over the net and plays the ball into the correct court, provided that the player does not break Rule 24; or
+      c. The ball is returned outside the net posts, either above or below the level of the top  of  the  net,  even  though  it  touches  the  net  posts   provided  that  it  hits  the , ground in the correct court; except as provided in Rules 2 and 24 (d); or
+      d. The ball passes under the net cord between the singles stick and the adjacent net post without touching either net, net cord or net post and hits the ground in the correct court, or
+      e. The player's racket passes over the net after hitting the ball on the player's own side of the net and the ball hits the ground in the correct court; or
+      f. The player hits the ball in play, which hits another ball lying in the correct court.
+    questions_and_answers:
+      - question: |-
+          What happens if a player's racket passes over the net after hitting the ball on
+          the player's own side of the net and the ball hits the ground in the correct
+          court?
+        answer: The player will not violate any rules.
+      - question: |-
+          What are the different scenarios where a player can hit the ball over the net
+          without violating the rules?
+        answer: |-
+          A player can hit the ball over the net after it has spun or been blown back over
+          the net and hit the ground within the correct court, if the ball passes under
+          the net cord between the singles stick and the adjacent net post without
+          touching either net, net cord or net post and hits the ground in the correct
+          court, or if the player's racket passes over the net after hitting the ball on
+          the player's own side of the net and the ball hits the ground in the correct
+          court.
+      - question: |-
+          If a ball touches the net, net posts/singles sticks, cord or metal cable, strap
+          or band and still hits the ground within the correct court, does this result in
+          a violation?
+        answer: |-
+          No, it does not result in a violation unless it is provided in Rule 2 and 24
+          (d).
+  - context: |-
+      a. During a standard game or a tie-break game, if a player serves from the wrong half of the court, this should be corrected as soon as the error is discovered, and the server shall serve from the correct half of the court according to the score. A fault that was served before the error was discovered shall stand.
+      b. During a standard game or a tie-break game, if the players are at the wrong ends of  the  court,  the  error  should  be  corrected  as  soon  as  it  is  discovered,  and  the server shall serve from the correct end of the court according to the score.
+      c. If  a  player  serves  out  of  turn  during  a  standard  game,  the  player  who  was originally due to serve shall serve as soon as the error is discovered. However, if
+      a  game  is  completed  before  the  error  is  discovered  the  order  of  service  shall remain  as  altered.  In  this  case,  any  ball  change  to  be  made  after  an  agreed number of games should be made one game later than originally scheduled.
+      A fault that was served by the opponents(s) before the error was discovered shall not stand.
+      In doubles, if the partners of one team serve out of turn, a fault that was served before the error was discovered shall stand.
+      d. If a player serves out of turn during a tie-break game and the error is discovered after an  even  number  of  points  have  been  played,  the  error  is  corrected immediately. If the error is discovered after an odd number of points have been played, the order of service shall remain as altered.
+      A fault that was served by the opponent(s) before the error was discovered shall not stand.
+      In doubles, if the partners of one team serve out of turn, a fault that was served before the error was discovered shall stand.
+      e. During a standard game or a tie-break game in doubles, if there is an error in the order of receiving, this shall remain as altered until the end of the game in which the error is discovered. For the next game in which they are the receivers in that set, the partners shall then resume the original order of receiving.
+      f. If  in  error  a  tie-break  game  is  started  at  6  games  all,  when  it  was  previously agreed  that  the  set  would  be  an  'Advantage  set',  the  error  shall  be  corrected immediately if only one point has been played. If the error is discovered after the second point is in play, the set will continue as a 'Tie-break set'.
+      g. If  in  error  a  standard  game  is  started  at  6  games  all,  when  it  was  previously agreed  that  the  set  would  be  a  'Tie-break  set',  the  error  shall  be  corrected immediately if only one point has been played. If the error is discovered after the second  point  is  in  play,  the  set  will  continue  as  an  'Advantage  set'  until  the score reaches 8 games all (or a higher even number), when a tie-break game shall be played.
+      h. If in  error  an  'Advantage  set'  or  'Tie-break  set'  is  started,  when  it  was previously agreed that the final set would be a match tie-break, the error shall be corrected  immediately  if  only  one  point  has  been  played.  If  the  error  is discovered after the second point is in play, the set will continue either until a player or team wins three games (and therefore the set) or until the score reaches 2  games  all,  when  a  match  tie-break  shall  be  played.  However,  if  the  error  is discovered  after  the  second  point  of  the  fifth  game  has  started,  the  set  will continue as a 'Tie-break set'. (See Appendix VI)
+      i. If the balls are not changed in the correct sequence, the error shall be corrected when the player/team who should have served with new balls is next due to serve a new game. Thereafter the balls shall be changed so that the number of games between ball changes shall be that originally agreed. Balls should not be changed during a game.
+    questions_and_answers:
+      - question: |-
+          What should be done if the players are at the wrong ends of the court during a
+          standard game or a tie-break game?
+        answer: |-
+          The error should be corrected as soon as it is discovered, and the server shall
+          serve from the correct end of the court according to the score.
+      - question: |-
+          What are the rules regarding serving out of turn during a standard game or a
+          tie-break game?
+        answer: |-
+          If a player serves out of turn during a standard game, the player who was
+          originally due to serve shall serve as soon as the error is discovered. However,
+          if a game is completed before the error is discovered, the order of service
+          shall remain as altered. In doubles, if the partners of one team serve out of
+          turn, a fault that was served before the error was discovered shall stand. In a
+          tie-break game, if the error is discovered after an even number of points have
+          been played, the error is corrected immediately. If the error is discovered
+          after an odd number of points have been played, the order of service shall
+          remain as altered.
+      - question: |-
+          If the balls are not changed in the correct sequence, what are the consequences
+          and when is the error corrected?
+        answer: |-
+          The error is corrected when the player/team who should have served with new
+          balls is next due to serve a new game. Thereafter, the balls are changed so that
+          the number of games between ball changes is that originally agreed. Balls should
+          not be changed during a game.
+  - context: |-
+      a. Between points, a maximum of twenty-five (25) seconds is allowed. When the players change ends at the end of a game, a maximum of ninety (90) seconds are allowed. However, after the first game of each set and during a tie-break game, play shall be continuous and the players shall change ends without a rest.
+      At the end of each set there shall be a set break of a maximum of one hundred and twenty (120) seconds.
+      The maximum time starts from the moment that one point finishes until the first service is struck for the next point.
+      Event organisers may apply for ITF approval to extend the ninety (90) seconds allowed when the players change ends at the end of a game and the one hundred and twenty (120) seconds allowed at a set break.
+      b. If,  for  reasons  outside  the  player's  control,  clothing,  footwear  or  necessary equipment (excluding the racket) is broken or needs to be replaced, the player may be allowed reasonable extra time to rectify the problem.
+      c. No extra time shall be given to allow a player to recover condition. However, a player suffering from a treatable medical condition may be allowed one medical time-out of three minutes for the treatment of that medical condition. A limited number of toilet/change of attire breaks may also be allowed, if this is announced in advance of the event.
+      d. Event organisers may allow a rest period of a maximum of ten (10) minutes if this is announced in advance of the event. This rest period can be taken after the 3rd set in a best of 5 sets match, or after the 2nd set in a best of 3 sets match.
+      e. The  warm-up  time  shall  be  a  maximum  of  five  (5)  minutes,  unless  otherwise decided by the event organisers.
+    questions_and_answers:
+      - question: How long is the maximum time allowed between points?
+        answer: A maximum of twenty-five (25) seconds is allowed between points.
+      - question: |-
+          What are the different rest periods allowed during a match and under what
+          conditions?
+        answer: |-
+          A maximum of ninety (90) seconds are allowed when the players change ends at the
+          end of a game, a maximum of one hundred and twenty (120) seconds at the end of
+          each set, a maximum of ten (10) minutes if announced in advance of the event
+          (after the 3rd set in a best of 5 sets match, or after the 2nd set in a best of
+          3 sets match), and three minutes for a medical time-out for a treatable medical
+          condition. The warm-up time is a maximum of five (5) minutes.
+      - question: |-
+          If a player's clothing, footwear, or necessary equipment is broken or needs to
+          be replaced, will they be given extra time?
+        answer: |-
+          Yes, if the problem is outside the player's control, they may be allowed
+          reasonable extra time to rectify the problem.
+  - context: |-
+      The International Tennis Federation shall rule on the question of whether any
+      such equipment  is  approved,  or  not  approved.  Such  ruling  may  be  taken
+      on  its  own initiative,  or  upon  application  by  any  party  with  a  bona
+      fide  interest  therein, including any player, equipment manufacturer or
+      National Association or members thereof.  Such  rulings  and  applications
+      shall  be  made  in  accordance  with  the applicable  Review  and  Hearing
+      Procedures  of  the  International  Tennis  Federation (see Appendix XII).
+    questions_and_answers:
+      - question: |-
+          Who can make an application to the International Tennis Federation regarding
+          equipment approval?
+        answer: |-
+          Any player, equipment manufacturer, National Association, or members thereof can
+          make an application to the International Tennis Federation regarding equipment
+          approval.
+      - question: |-
+          What are the ways in which a ruling on equipment approval can be initiated by
+          the International Tennis Federation?
+        answer: |-
+          The International Tennis Federation can initiate a ruling on equipment approval
+          on its own or upon application by any party with a bona fide interest therein,
+          including any player, equipment manufacturer, National Association, or members
+          thereof.
+      - question: |-
+          If a player disagrees with the International Tennis Federation's ruling on
+          equipment approval, what recourse do they have?
+        answer: |-
+          Players and other interested parties can apply for a review of the ruling in
+          accordance with the International Tennis Federation's Review and Hearing
+          Procedures (Appendix XII).
+  - context: |-
+      i. Immediately before commencing the service, the server shall be  in a stationary position. The server shall then be allowed one push before striking the ball.
+      ii. The server shall throughout the delivery of the service not touch with any  wheel,  any  area  other  than  that  behind  the  baseline  within  the imaginary extension of the centre mark and sideline.
+      iii. If conventional methods for the service are physically impossible for a quad player, then the player or another individual may drop the ball for such a player and allow it to bounce before it is struck. If this is the case, the same method of serving must be used for the entire match.
+    questions_and_answers:
+      - question: What is the player allowed to do immediately before commencing the
+          service?
+        answer: |-
+          The player must be in a stationary position immediately before commencing the
+          service.
+      - question: What are the restrictions on the server's movement during the service
+          delivery?
+        answer: |-
+          The server is not allowed to touch any area other than that behind the baseline
+          within the imaginary extension of the centre mark and sideline with any wheel
+          throughout the delivery of the service.
+      - question: |-
+          If a quad player finds conventional serving methods physically impossible, what
+          alternative is provided and must be maintained for the entire match?
+        answer: |-
+          If a quad player cannot serve conventionally, another individual may drop the
+          ball for the player, allowing it to bounce before it is struck. This method must
+          be maintained for the entire match.
+  - context: |-
+      i. The wheelchair may be constructed of any material provided that such material  is  non-reflective  and  does  not  constitute  a  hindrance  to  the opponent.
+      ii. Wheels may have a single pushrim only. No changes to the wheelchair that  afford  the  player  a  mechanical  advantage  are  permitted,  such  as levers or gears. During normal play, wheels shall not leave permanent marks on, or otherwise damage, the court surface.
+      iii. Subject  to  Rule  e(v),  players  shall  use  only  the  wheels  (including pushrims) to propel the wheelchair. No steering, braking or gearing or other  device  that  may  assist  operation  of  the  wheelchair,  including energy storage systems, is permitted.
+      iv. The height of the seat (including cushion) shall be fixed and players' buttocks shall remain in contact with the seat during the playing of a point. Strapping may be used to secure the player to the wheelchair.
+      v. Players who meet the requirements of Article 10 of the ITF Wheelchair Tennis Classification Rules may use a wheelchair powered by electric motor(s) (a 'powered wheelchair'). Powered wheelchairs must not be able to exceed 15 km/h in any direction and shall be controlled by the player only.
+      vi. Applications  may  be  made  for  modifications  to  the  wheelchair  for legitimate medical reasons. All such applications shall be submitted to the ITF  Sport  Science  &  Medicine  Commission  for  approval  a minimum of 60 days prior to intended use in an ITF-sanctioned event. A decision  to  reject  a  proposed  modification  may  be  appealed  under Chapter III of the ITF Wheelchair Tennis Regulations.
+    questions_and_answers:
+      - question: What is not allowed to be used to propel the wheelchair during normal
+          play?
+        answer: |-
+          Steering, braking or gearing or other device that may assist operation of the
+          wheelchair, including energy storage systems, is not permitted.
+      - question: |-
+          What are the restrictions on the wheelchair's construction and usage during a
+          match?
+        answer: |-
+          The wheelchair can be made of any non-reflective material that does not hinder
+          the opponent. Only the wheels, including pushrims, can be used to propel the
+          wheelchair. No steering, braking, gearing, or other assistive devices are
+          allowed. The seat height must be fixed, and the player must remain in contact
+          with the seat during play. The wheelchair must not leave permanent marks on the
+          court. Powered wheelchairs are allowed for certain players, but they must not
+          exceed 15 km/h.
+      - question: |-
+          Given the rules, how might a player's medical condition lead to modifications in
+          their wheelchair?
+        answer: |-
+          A player's medical condition might lead to modifications in their wheelchair if
+          those modifications are deemed necessary for the player's safe and effective
+          participation in the sport. Any such modifications must be submitted to the ITF
+          Sport Science & Medicine Commission for approval a minimum of 60 days prior to
+          intended use in an ITF-sanctioned event.
+  - context: |-
+      i. If due to lack of capacity a player is unable to propel the wheelchair via the wheel, then they may propel the wheelchair using one foot.
+      ii. Even  if  in  accordance  with  rule  f)  i.  above  a  player  is  permitted  to propel the chair using one foot, no part of the player's foot may be in contact with the ground:
+      a) during  the  forward  motion  of  the  swing,  including  when  the racket strikes the ball;
+      b) from the initiation of the service motion until the racket strikes the ball.
+      iii. A player in breach of this rule shall lose the point.
+    questions_and_answers:
+      - question: |-
+          What body part can a player use to propel the wheelchair if they can't use their
+          hands?
+        answer: |-
+          A player can use one foot to propel the wheelchair if they can't use their
+          hands.
+      - question: |-
+          What are the restrictions on foot contact with the ground while propelling the
+          wheelchair and serving?
+        answer: |-
+          No part of the player's foot may be in contact with the ground during the
+          forward motion of the swing, including when the racket strikes the ball, and
+          from the initiation of the service motion until the racket strikes the ball.
+      - question: |-
+          If a player fails to comply with the rules regarding foot contact with the
+          ground, what is the consequence?
+        answer: A player in breach of this rule shall lose the point.
+  - context: |-
+      The official and decisive text to the Rules of Tennis shall be for ever in the
+      English language and no alteration or interpretation of such Rules shall be made
+      except at an Annual  General  Meeting  of  the  Council,  nor  unless  notice
+      of  the  Resolution embodying such alterations shall have been received by the
+      ITF in accordance with Constitution Article 9D and such Resolution or one having
+      the like effect shall be carried by a majority of two-thirds of the votes
+      recorded in respect of the same.
+    questions_and_answers:
+      - question: In what language is the official and decisive text of the Rules
+          of Tennis?
+        answer: |-
+          The official and decisive text of the Rules of Tennis is in the English
+          language.
+      - question: What are the two conditions for altering or interpreting the Rules
+          of Tennis?
+        answer: |-
+          The two conditions for altering or interpreting the Rules of Tennis are that it
+          must be done at an Annual General Meeting of the Council and that a Resolution
+          embodying such alterations must be carried by a majority of two-thirds of the
+          votes recorded.
+      - question: |-
+          If a Resolution to alter the Rules of Tennis is not carried by a majority of
+          two-thirds of the votes recorded, what happens?
+        answer: |-
+          If a Resolution to alter the Rules of Tennis is not carried by a majority of
+          two-thirds of the votes recorded, the alteration or interpretation is not made.
+  - context: |-
+      MASS (WEIGHT), TYPE 1   (FAST) = 56.0-59.4 grams  (1.975-2.095  ounces). MASS
+      (WEIGHT), TYPE 2   (MEDIUM)   1 = 56.0-59.4 grams  (1.975-2.095  ounces). MASS
+      (WEIGHT), TYPE 3   (SLOW) 2 = 56.0-59.4 grams  (1.975-2.095  ounces). MASS
+      (WEIGHT), HIGH  ALTITUDE 3 = 56.0-59.4 grams  (1.975-2.095  ounces). SIZE, TYPE
+      1   (FAST) = 6.54-6.86 cm  (2.57-2.70 inches). SIZE, TYPE 2   (MEDIUM)   1 =
+      6.54-6.86 cm  (2.57-2.70 inches). SIZE, TYPE 3   (SLOW) 2 = 7.00-7.30 cm
+      (2.76-2.87 inches). SIZE, HIGH  ALTITUDE 3 = 6.54-6.86 cm  (2.57-2.70 inches).
+      REBOUND, TYPE 1   (FAST) = 138-151 cm  (54-60 inches). REBOUND, TYPE 2
+      (MEDIUM)   1 = 135-147 cm  (53-58 inches). REBOUND, TYPE 3   (SLOW) 2 = 135-147
+      cm  (53-58 inches). REBOUND, HIGH  ALTITUDE 3 = 122-135 cm  (48-53 inches).
+      FORWARD  DEFORMATION   4, TYPE 1   (FAST) = 0.56-0.74 cm  (0.220-0.291  inches).
+      FORWARD  DEFORMATION   4, TYPE 2   (MEDIUM)   1 = 0.56-0.74 cm  (0.220-0.291
+      inches). FORWARD  DEFORMATION   4, TYPE 3   (SLOW) 2 = 0.56-0.74 cm
+      (0.220-0.291  inches). FORWARD  DEFORMATION   4, HIGH  ALTITUDE 3 = 0.56-0.74 cm
+      (0.220-0.291  inches). RETURN  DEFORMATION 4, TYPE 1   (FAST) = 0.74-1.08 cm
+      (0.291-0.425  inches). RETURN  DEFORMATION 4, TYPE 2   (MEDIUM)   1 = 0.80-1.08
+      cm  (0.315-0.425  inches). RETURN  DEFORMATION 4, TYPE 3   (SLOW) 2 = 0.80-1.08
+      cm  (0.315-0.425  inches). RETURN  DEFORMATION 4, HIGH  ALTITUDE 3 = 0.80-1.08
+      cm  (0.315-0.425  inches). COLOUR, TYPE 1   (FAST) = White or Yellow. COLOUR,
+      TYPE 2   (MEDIUM)   1 = White or Yellow. COLOUR, TYPE 3   (SLOW) 2 = White or
+      Yellow. COLOUR, HIGH  ALTITUDE 3 = White or Yellow
+    questions_and_answers:
+      - question: What is the weight range of Type 3?
+        answer: 56.0-59.4 grams (1.975-2.095 ounces)
+      - question: |-
+          What are the common features among all types in terms of size, rebound, forward
+          deformation, return deformation, and color?
+        answer: |-
+          All types have the same size range (6.54-6.86 cm or 2.57-2.70 inches), rebound
+          range (135-151 cm or 53-60 inches), forward deformation (0.56-0.74 cm or
+          0.220-0.291 inches), and return deformation (0.74-1.08 cm or 0.291-0.425
+          inches). The color options are white or yellow for all types.
+      - question: |-
+          If a Type 1 and a Type 3 are compared in terms of mass and size, what can be
+          inferred about their performance?
+        answer: |-
+          Given that Type 1 and Type 3 have the same mass range (56.0-59.4 grams or
+          1.975-2.095 ounces) but Type 3 is larger in size (7.00-7.30 cm or 2.76-2.87
+          inches compared to 6.54-6.86 cm or 2.57-2.70 inches), one can infer that Type 3
+          might perform slower than Type 1 due to its larger size, assuming all other
+          factors are equal.
+  - context: |-
+      1 This ball type may be pressurised or pressureless. The pressureless ball shall have an internal pressure that is no greater than 7 kPa (1 psi) and may be used for high altitude play above 1,219 m (4,000 feet) above sea level and shall have been acclimatised for 60 days or more at the altitude of the specific tournament.
+      2 This ball type is also recommended for high altitude play on any court surface type above 1,219 m (4,000 feet) above sea level.
+      3 This ball type is pressurised and is specified for high altitude play above 1,219 m (4,000 feet) above sea level only.
+      4 The  deformation  shall  be  the  average  of  a  single  reading  along  each  of  three  perpendicular  axes.  No  two individual readings shall differ by more than 0.08 cm (0.031 inches).
+      c. In  addition,  all  ball  types  specified  under  paragraph  (b)  shall  conform  to  the requirements for durability as shown in the following table:
+    questions_and_answers:
+      - question: What is the maximum internal pressure allowed for a pressureless
+          ball?
+        answer: The maximum internal pressure allowed for a pressureless ball is 7
+          kPa (1 psi).
+      - question: What are the recommended conditions for using this ball type?
+        answer: |-
+          This ball type is recommended for high altitude play on any court surface type
+          above 1,219 m (4,000 feet) above sea level.
+      - question: |-
+          Based on the information, if a pressurised ball is used at high altitudes, what
+          could happen to its pressure compared to a pressureless ball?
+        answer: |-
+          A pressurised ball used at high altitudes could experience an increase in
+          pressure due to the lower atmospheric pressure, which could affect its
+          performance compared to a pressureless ball that is acclimatised to the
+          altitude.
+  - context: |-
+      MASS (WEIGHT), STAGE 3   (RED)  FOAM = 25.0-43.0 grams  (0.882-1.517  ounces).
+      MASS (WEIGHT), STAGE 3   (RED)  STANDARD = 36.0-49.0 grams  (1.270-1.728
+      ounces). MASS (WEIGHT), STAGE 2   (ORANGE)  STANDARD = 36.0-46.9 grams
+      (1.270-1.654  ounces). MASS (WEIGHT), STAGE 1   (GREEN)  STANDARD = 47.0-51.5
+      grams  (1.658-1.817  ounces). SIZE, STAGE 3   (RED)  FOAM = 8.00-9.00 cm
+      (3.15-3.54 inches). SIZE, STAGE 3   (RED)  STANDARD = 7.00-8.00 cm  (2.76-3.15
+      inches). SIZE, STAGE 2   (ORANGE)  STANDARD = 6.00-6.86 cm  (2.36-2.70 inches).
+      SIZE, STAGE 1   (GREEN)  STANDARD = 6.30-6.86 cm  (2.48-2.70 inches). REBOUND,
+      STAGE 3   (RED)  FOAM = 85-105 cm  (33-41 inches). REBOUND, STAGE 3   (RED)
+      STANDARD = 90-105 cm  (35-41 inches). REBOUND, STAGE 2   (ORANGE)  STANDARD =
+      105-120 cm  (41-47 inches). REBOUND, STAGE 1   (GREEN)  STANDARD = 120-135 cm
+      (47-53 inches). FORWARD  DEFORMATION   1, STAGE 3   (RED)  FOAM = -------.
+      FORWARD  DEFORMATION   1, STAGE 3   (RED)  STANDARD = -------. FORWARD
+      DEFORMATION   1, STAGE 2   (ORANGE)  STANDARD = 1.40-1.65 cm  (0.551-0.650
+      inches). FORWARD  DEFORMATION   1, STAGE 1   (GREEN)  STANDARD = 0.80-1.05 cm
+      (0.315-0.413  inches). COLOUR   2, STAGE 3   (RED)  FOAM = Any. COLOUR   2,
+      STAGE 3   (RED)  STANDARD = Red and Yellow,   or Yellow with a   Red dot. COLOUR
+      2, STAGE 2   (ORANGE)  STANDARD = Orange and Yellow,  or Yellow with an  Orange
+      dot. COLOUR   2, STAGE 1   (GREEN)  STANDARD = Yellow with a  Green dot
+    questions_and_answers:
+      - question: What is the weight range of Stage 3 Red Foam?
+        answer: 25.0-43.0 grams (0.882-1.517 ounces)
+      - question: |-
+          What are the differences in weight, size, rebound, and color between Stage 1
+          Green Standard, Stage 2 Orange Standard, Stage 3 Red Standard, and Stage 3 Red
+          Foam?
+        answer: |-
+          Weight: Stage 3 Red Foam - 25.0-43.0 grams, Stage 3 Red Standard - 36.0-49.0
+          grams, Stage 2 Orange Standard - 36.0-46.9 grams, Stage 1 Green Standard -
+          47.0-51.5 grams. Size: Stage 3 Red Foam - 8.00-9.00 cm, Stage 3 Red Standard -
+          7.00-8.00 cm, Stage 2 Orange Standard - 6.00-6.86 cm, Stage 1 Green Standard -
+          6.30-6.86 cm. Rebound: Stage 3 Red Foam - 85-105 cm, Stage 3 Red Standard -
+          90-105 cm, Stage 2 Orange Standard - 105-120 cm, Stage 1 Green Standard -
+          120-135 cm. Color: Stage 3 Red Foam - Any, Stage 3 Red Standard - Red and Yellow
+          or Yellow with a Red dot, Stage 2 Orange Standard - Orange and Yellow or Yellow
+          with an Orange dot, Stage 1 Green Standard - Yellow with a Green dot.
+      - question: |-
+          Based on the provided data, if you were to choose a stage with the smallest size
+          and lowest rebound, which one would you choose?
+        answer: |-
+          Stage 1 Green Standard would be the choice as it has the smallest size range of
+          6.30-6.86 cm and the lowest rebound range of 120-135 cm among the stages.
+  - context: |-
+      Note: In addition to the ball types specified under paragraph (b) above, the
+      Stage 1 (Green) ball may be used for all levels of competitive play except for
+      world ranking professional  tennis  events,  Davis  Cup  and  Billie  Jean  King
+      Cup,  the  Olympic  and Paralympic Tennis Events, World  Tennis Tour Men's,
+      Women's  and  Junior Tournaments  and  Team  events  sanctioned  by  the  ITF
+      and  affiliated  Regional Associations, ITF World Tennis Masters Tour and Team
+      events and ITF Wheelchair Tennis Tour and Team events.
+    questions_and_answers:
+      - question: |-
+          What is the highest level of tennis event where the Stage 1 (Green) ball can be
+          used?
+        answer: |-
+          World ranking professional tennis events, Davis Cup and Billie Jean King Cup,
+          the Olympic and Paralympic Tennis Events, World Tennis Tour Men's, Women's and
+          Junior Tournaments and Team events sanctioned by the ITF and affiliated Regional
+          Associations, ITF World Tennis Masters Tour and Team events and ITF Wheelchair
+          Tennis Tour and Team events are the highest level of tennis events where the
+          Stage 1 (Green) ball cannot be used.
+      - question: In what types of tennis events can the Stage 1 (Green) ball be used?
+        answer: |-
+          The Stage 1 (Green) ball can be used for all levels of competitive play except
+          for world ranking professional tennis events, Davis Cup and Billie Jean King
+          Cup, the Olympic and Paralympic Tennis Events, World Tennis Tour Men's, Women's
+          and Junior Tournaments and Team events sanctioned by the ITF and affiliated
+          Regional Associations, ITF World Tennis Masters Tour and Team events and ITF
+          Wheelchair Tennis Tour and Team events.
+  - context: |-
+      a. The racket shall  consist  of  a  frame  and  string(s).  The  frame  shall  consist  of  a handle and head, and may also include a throat. The head is defined as that part of the racket to which the string(s) connect. The handle is defined as that part of the racket connected to the head which is held by the player in normal use. The throat, where present, is that part of the racket that joins the handle to the head.
+      b. The hitting surface, defined as the main area of the stringing pattern bordered by the points of entry of the strings into the head or points of contact of the strings with the head, whichever is the smaller, shall be flat and consist of a pattern of crossed strings, which shall be alternately interlaced or bonded where they cross. The stringing pattern must be generally uniform and, in particular, not less dense in the centre than in any other area. The racket shall be designed and strung such that the playing characteristics are identical on both faces.
+      c. The racket shall not exceed 73.7 cm (29.0 inches) in overall length, and 31.7 cm (12.5  inches)  in  overall  width.  The  hitting  surface  shall  not  exceed  39.4 cm (15.5 inches) in overall length, when measured parallel to the longitudinal axis of the handle, and  29.2 cm  (11.5 inches) in overall width, when  measured perpendicular to the longitudinal axis of the handle.
+      d. The racket shall be free of any attached object, protrusion or device which makes it possible to change materially the shape of the racket, or its moment of inertia about any principal axis, or to change any physical property which may affect the performance  of  the  racket  during  the  playing  of  a  point.  Attached  objects, protrusions and devices that are approved as Player Analysis Technology, or that are utilised to limit or prevent wear and tear or vibration or, for the frame only, to distribute weight, are permitted. All permissible objects, protrusions and devices must be reasonable in size and placement for their respective purpose(s).
+    questions_and_answers:
+      - question: What is the maximum overall length that a racket can be?
+        answer: 73.7 cm (29.0 inches)
+      - question: What are the dimensions of the hitting surface of the racket?
+        answer: |-
+          The hitting surface of the racket cannot exceed 39.4 cm (15.5 inches) in overall
+          length and 29.2 cm (11.5 inches) in overall width.
+      - question: |-
+          Based on the given specifications, would a racket with a heavier handle affect
+          the performance during a game?
+        answer: |-
+          Yes, according to the passage, any attached object, protrusion, or device that
+          changes the moment of inertia about any principal axis or any physical property
+          that may affect the performance of the racket is not allowed.
+  - context: |-
+      a. Coaching is permitted between points and at change of ends and set breaks, and at  any  other  time  (except  during  the  playing  of  a  point)  permitted  by  the sanctioning body.
+      b. for Off-Court Coaching and On-Court Coaching between points, communication may be verbal (when the coach(es) and player(s) are at the same end of the court) or by hand signals (at any time when coaching is permitted) only.
+      c. Off-Court  Coaching,  and  On-Court  Coaching  between  points,  must  be  brief (except during breaks in play) and discreet.
+    questions_and_answers:
+      - question: When is verbal communication allowed for coaching during a tennis
+          match?
+        answer: |-
+          Verbal communication is allowed for coaching during a tennis match when the
+          coach(es) and player(s) are at the same end of the court.
+      - question: What are the allowed methods and conditions for coaching during
+          a tennis match?
+        answer: |-
+          Coaching is permitted between points and at change of ends and set breaks, and
+          at any other time permitted by the sanctioning body. Communication may be verbal
+          when the coach(es) and player(s) are at the same end of the court, or by hand
+          signals at any time when coaching is permitted. Off-Court Coaching and On-Court
+          Coaching between points must be brief and discreet.
+      - question: |-
+          Based on the provided rules, would a coach be allowed to communicate with a
+          player using a walkie-talkie during a match?
+        answer: |-
+          No, the rules do not allow for such communication. Coaching is permitted only
+          between points and at change of ends and set breaks, and at any other time
+          permitted by the sanctioning body. Communication may be verbal when the
+          coach(es) and player(s) are at the same end of the court, or by hand signals at
+          any time when coaching is permitted. The use of a walkie-talkie is not mentioned
+          and therefore not allowed.
+  - context: |-
+      1. Advertising is permitted on the net as long as it is placed on the part of the net that is within 3 feet (0.914 m) from the centre of the net posts and is produced in such a way that it does not interfere with the vision of the players or the playing conditions.
+      A mark (non-commercial) of the sanctioning body is permitted on the lower part of the net, minimum 20 inches (0.51 m) from the top of the net, as long as it is produced in such a way that it does not interfere with the vision of the players or the playing conditions.
+      2. Advertising and other marks or material placed at the back and sides of the court shall be permitted unless it interferes with the vision of the players or the playing conditions.
+      3. Advertising and other marks or material placed on the court surface outside the lines is permitted unless it interferes with the vision of the players or the playing conditions.
+      4. Notwithstanding  paragraphs  (1),  (2)  and  (3)  above,  any  advertising,  marks  or material placed on the net or placed at the back and sides of the court, or on the court  surface  outside  the  lines  may  not  contain  white  or  yellow  or  other  light colours  that may  interfere  with  the  vision  of  the  players  or  the playing conditions.
+      5. Advertising and other marks or material are not permitted on the court surface inside the lines of the court.
+    questions_and_answers:
+      - question: Where is a mark (non-commercial) of the sanctioning body permitted
+          on the net?
+        answer: |-
+          A mark (non-commercial) of the sanctioning body is permitted on the lower part
+          of the net, minimum 20 inches (0.51 m) from the top of the net.
+      - question: What are the general conditions for advertising on the net and court?
+        answer: |-
+          Advertising is permitted on the net as long as it is within 3 feet (0.914 m)
+          from the centre of the net posts and does not interfere with the vision of the
+          players or the playing conditions. It is also permitted on the back and sides of
+          the court, and on the court surface outside the lines, as long as it does not
+          interfere with the vision of the players or the playing conditions. However,
+          certain colors like white, yellow, or other light colors are not permitted on
+          the net or court surface outside the lines if they interfere with the vision of
+          the players or the playing conditions. Advertising is not permitted on the court
+          surface inside the lines.
+      - question: |-
+          Based on the provided rules, why might certain colors be prohibited for
+          advertising on the net and court?
+        answer: |-
+          Certain colors like white, yellow, or other light colors might be prohibited for
+          advertising on the net and court because they could interfere with the vision of
+          the players or the playing conditions.
+  - context: |-
+      Case 1: The chair umpire awards the server a first service after an overrule,
+      but the receiver  argues  that  it  should  be  a  second  service,  since  the
+      server  had  already served a fault. Should the referee be called to court to
+      give a decision? Decision: Yes. The chair umpire makes the first decision about
+      questions of tennis law (issues relating to the application of specific facts).
+      However, if a player appeals the  chair  umpire's  decision,  then  the  referee
+      shall  be  called  to  make  the  final decision.
+    questions_and_answers:
+      - question: Who makes the first decision about questions of tennis law?
+        answer: The chair umpire makes the first decision about questions of tennis
+          law.
+      - question: What is the role of the referee in a dispute regarding tennis law?
+        answer: |-
+          If a player appeals the chair umpire's decision, then the referee shall be
+          called to make the final decision.
+      - question: |-
+          Under what circumstances should the referee be called to court to give a
+          decision in a tennis match?
+        answer: |-
+          The referee should be called to court if a player appeals the chair umpire's
+          decision about questions of tennis law.
+  - context: |-
+      1. Ball mark inspections can only be made on clay courts.
+      2. A ball mark inspection requested by a player (team) shall be allowed only if the chair umpire cannot determine the call with certainty from their chair on either a point-ending shot or when a player (team) stops playing the point during a rally (returns are permitted but then the player must immediately stop).
+      3. When the chair umpire has decided to make a ball mark inspection, they should go down from the chair and make the inspection themselves. If they do not know where the mark is, they can ask the line umpire for help in locating the mark, but then the chair umpire shall inspect it.
+      4. The  original  call  or  overrule  will  always  stand  if  the  line  umpire  and  chair umpire cannot determine the location of the mark or if the mark is unreadable.
+      5. Once the chair umpire has identified and ruled on a ball mark, this decision is final and not appealable.
+      6. In  clay  court  tennis  the  chair  umpire  should  not  be  too  quick  to  announce  the score  unless  absolutely  certain  of  the  call.  If  in  doubt,  wait  before  calling  the score to determine whether a ball mark inspection is necessary.
+      7. In doubles the appealing player must make their appeal in such a way that either play  stops  or  the  chair  umpire  stops  play.  If  an  appeal  is  made  to  the  chair umpire,  then  they  must  first  determine  that  the  correct  appeal  procedure  was followed.  If  it  was  not  correct  or  if  it  was  late,  then  the  chair  umpire  may determine that the opposing team was deliberately hindered.
+      8. If a player erases the ball mark before the chair umpire has made a final decision, they concede the call.
+      9. A player may not cross the net to check a ball mark without being subject to the Unsportsmanlike provision of the Code of Conduct.
+    questions_and_answers:
+      - question: What is the procedure for a ball mark inspection on a clay court?
+        answer: |-
+          The chair umpire should go down from their chair and make the inspection
+          themselves, or ask the line umpire for help in locating the mark and then
+          inspect it.
+      - question: |-
+          What are the conditions under which a ball mark inspection can be requested and
+          what are the implications of erasing the ball mark before the chair umpire's
+          final decision?
+        answer: |-
+          A ball mark inspection can be requested by a player (team) only if the chair
+          umpire cannot determine the call with certainty from their chair on a point-
+          ending shot or when a player (team) stops playing the point during a rally. If a
+          player erases the ball mark before the chair umpire's final decision, they
+          concede the call.
+      - question: |-
+          If a player crosses the net to check a ball mark, what provision of the Code of
+          Conduct might they be subject to?
+        answer: |-
+          A player may not cross the net to check a ball mark without being subject to the
+          Unsportsmanlike provision of the Code of Conduct.
+  - context: |-
+      3. In doubles the appealing player must make their appeal in such a way that either play  stops  or  the  chair  umpire  stops  play.  If  an  appeal  is  made  to  the  chair umpire,  then  they  must  first  determine  that  the  correct  appeal  procedure  was followed.  If  it  was  not  correct  or  if  it  was  late,  then  the  chair  umpire  may determine that the opposing team was deliberately hindered, in which case the appealing team loses the point.
+      4. The original call or overrule will always stand if the Electronic Review is unable, for whatever reason, to make a decision on that line call or overrule.
+      5. The chair umpire's final decision will be the outcome of the Electronic Review and is not appealable. If a manual choice is required for the system to review a particular  ball  impact,  a  review  official  approved  by  the  referee  shall  decide which ball impact is reviewed.
+      6. Each player (team) is allowed three (3) unsuccessful appeals per set, plus one (1) additional  appeal  in  the  tie-break.  For  matches  with  advantage  sets,  players (teams) will start again with a maximum of three (3) unsuccessful appeals at 6 games all and every 12 games thereafter. For matches with match tie-break, the match tie-break counts as a new set and each player (team) starts with three (3) appeals. Players (teams) will have an unlimited number of successful appeals.
+    questions_and_answers:
+      - question: |-
+          What happens if the Electronic Review is unable to make a decision on a line
+          call or overrule?
+        answer: The original call or overrule will always stand.
+      - question: |-
+          How many unsuccessful appeals are a player or team allowed per set, including
+          the tie-break?
+        answer: |-
+          Each player (team) is allowed three (3) unsuccessful appeals per set, plus one
+          (1) additional appeal in the tie-break.
+      - question: |-
+          If the chair umpire makes a final decision during the Electronic Review, can it
+          be appealed?
+        answer: No, the chair umpire's final decision is not appealable.
+  - context: "\xB7 A  court, designated 'Red' for the purposes of 10 and under tennis\
+      \ competition,  shall  be  a  rectangle,  between  36  feet  (10.97 m)  and\
+      \  42  feet (12.80 m) long, and between 14 feet (4.27 m) and 20 feet (6.10 m)\
+      \ wide. The net shall be between 31.5 inches (0.800 m) and 33.0 inches (0.838\
+      \ m) high at the centre.\n\xB7 A court, designated 'Orange', shall be a rectangle,\
+      \ between 58 feet (17.68 m) and 60 feet (18.29 m) long, and between 20 feet\
+      \ (6.10 m) and 27 feet (8.23 m) wide.  The  net  shall  be  between  31.5  inches\
+      \  (0.800 m)  and  36.0  inches (0.914 m) high at the centre."
+    questions_and_answers:
+      - question: What is the minimum length of a Red court in tennis competition?
+        answer: The minimum length of a Red court in tennis competition is 36 feet
+          (10.97 m).
+      - question: What are the dimensions of an Orange court in tennis competition?
+        answer: |-
+          An Orange court in tennis competition is a rectangle that is between 58 feet
+          (17.68 m) and 60 feet (18.29 m) long, and between 20 feet (6.10 m) and 27 feet
+          (8.23 m) wide. The net is between 31.5 inches (0.800 m) and 36.0 inches (0.914
+          m) high at the centre.
+      - question: |-
+          If a Red court in tennis competition is larger than a standard court, why might
+          this be?
+        answer: |-
+          A Red court in tennis competition may be larger to provide more space for
+          younger or less experienced players, allowing them to have more freedom of
+          movement and encouraging longer rallies.
+  - context: "\xB7 A Stage 3 (Red) ball,  which  is  recommended for  play  on  a\
+      \  'red'  court,  by players aged up to 8 years, using a racket up to 23 inches\
+      \ (58.4 cm) long.\n\xB7 A  Stage  2  (Orange)  ball,  which  is  recommended\
+      \  for  play  on  an  'orange' court,  by  players  aged  8  to  10  years,\
+      \  using  a  racket  between  23  inches (58.4 cm) and 25 inches (63.5 cm) long.\n\
+      \xB7 A Stage 1 (Green) ball, which is recommended for play on a full size court,\
+      \ by advanced  players  aged  9  to  10  years,  using  a  racket  between \
+      \ 25  inches (63.5 cm) and 26 inches (66.0 cm) long."
+    questions_and_answers:
+      - question: What type of ball is recommended for a player aged up to 8 years?
+        answer: A Stage 3 (Red) ball
+      - question: |-
+          What are the recommended court and racket specifications for a Stage 2 (Orange)
+          ball?
+        answer: |-
+          A Stage 2 (Orange) ball is recommended for play on an 'orange' court by players
+          aged 8 to 10 years, using a racket between 23 inches (58.4 cm) and 25 inches
+          (63.5 cm) long.
+      - question: |-
+          If a player is using a 26 inch racket, what type of ball and court are they
+          likely to be using?
+        answer: |-
+          A player using a 26 inch racket is likely to be using a Stage 1 (Green) ball on
+          a full size court as per the given specifications.
+  - context: |-
+      On  one,  which  will  measure  the  diagonal  of  the  half-court,  take  a
+      length  53'1" (16.18 m) and on the other (to measure the sideline) a length of
+      39'0" (11.89 m). Pull both taut so that at these distances they meet at a point
+      C, which is one corner of the court.  Reverse  the  measurements  to  find  the
+      other  corner  D.  As  a  check  on  this operation it is advisable at this
+      stage to verify the length of the line CD which, being the baseline, should be
+      found to be 36'0" (10.97 m); and at the same time its centre J can be marked,
+      and also the ends of the inner sidelines (c, d), 4'6" (1.37 m) from C and D.
+    questions_and_answers:
+      - question: What is the length of the diagonal of the half-court?
+        answer: 53'1" (16.18 m)
+      - question: What are the measurements taken to set up the court?
+        answer: |-
+          One measurement of 53'1" (16.18 m) is taken diagonally across the half-court,
+          and another measurement of 39'0" (11.89 m) is taken along the sideline. These
+          measurements are taken to ensure the court is set up correctly.
+      - question: Given the measurements provided, can we determine the shape of the
+          court?
+        answer: |-
+          Yes, the measurements provided suggest that the court is a rectangle, as the
+          diagonal measurement (53'1" or 16.18 m) is used to set up the corners, and the
+          baseline (CD) is a straight line (36'0" or 10.97 m).
+  - context: |-
+      6.1 Ruling Boards shall be appointed by the President of the International Tennis Federation  ('President')  or  their  designee  and  shall  comprise  of  such  a number, as the President or their designee shall determine.
+      6.2 If  more than one person is appointed to the Ruling Board the Ruling Board shall nominate one person from amongst themselves to act as Chairperson.
+      6.3 The Chairperson shall be entitled to regulate the procedures prior to and at any review and/or hearing of a Ruling Board.
+    questions_and_answers:
+      - question: Who appoints the Ruling Boards in the International Tennis Federation?
+        answer: The President of the International Tennis Federation or their designee
+      - question: |-
+          How is the Chairperson of the Ruling Board selected and what are their
+          responsibilities?
+        answer: |-
+          The Chairperson of the Ruling Board is nominated from amongst the Ruling Board
+          members themselves. They are entitled to regulate the procedures prior to and at
+          any review and/or hearing of a Ruling Board.
+  - context: |-
+      8.1 An  application  for  a  Ruling  may  be  made  by  any  party  with  a  bona  fide interest in the  Ruling  including  any  player,  equipment  manufacturer  or national association or member thereof.
+      8.2 Any application for a Ruling must be submitted in writing to the President.
+      8.3 To be valid an application for a Ruling must include the following minimum information:
+      a. The full name and address of the Applicant.
+      b. The date of the application.
+      c. A  statement  clearly  identifying  the  interest  of  the  Applicant  in  the question upon which a Ruling is requested.
+      d. All relevant documentary evidence upon which the Applicant intends to rely at any hearing.
+      e. If,  in  the  opinion  of  the  Applicant,  expert  evidence  is  necessary  they shall include a request for such expert evidence to be heard. Such request must  identify  the  name  of  any  expert  proposed  and  their  relevant expertise.
+      f. When an application for a Ruling on a racket or other piece of equipment is made, a prototype or, exact, copy of the equipment in question must be submitted with the application for a Ruling.
+      g. If,  in  the  opinion  of  the  Applicant,  there  are  extraordinary  or  unusual circumstances,  which  require  a  Ruling  to  be  made  within  a  specified time or before a specified date they shall include a statement describing the extraordinary or unusual circumstances.
+      8.4 If an  application  for  a  Ruling  does  not  contain  the  information  and/or equipment  referred  to  at  Clause  8.3  (a)-(g)  above  the  President  or  their designee shall notify the Applicant giving the Applicant a specified reasonable time within which to remedy the defect. If the Applicant fails to remedy the defect within the specified time the application shall be dismissed.
+    questions_and_answers:
+      - question: Who can make an application for a Ruling?
+        answer: |-
+          Any party with a bona fide interest in the Ruling, including any player,
+          equipment manufacturer, or national association or member thereof.
+      - question: What information must be included in an application for a Ruling?
+        answer: |-
+          The full name and address of the Applicant, the date of the application, a
+          statement clearly identifying the Applicant's interest in the question, all
+          relevant documentary evidence, and if necessary, a request for expert evidence
+          with the name and relevant expertise of the proposed expert.
+      - question: Under what circumstances would an application for a Ruling be dismissed?
+        answer: |-
+          If the application does not contain the required information and/or equipment as
+          specified in Clause 8.3 (a)-(g), and the Applicant fails to remedy the defect
+          within a specified reasonable time after being notified, the application will be
+          dismissed.
+  - context: |-
+      10.1 The  Chairperson  of  a  Ruling  Board  shall  determine  the  appropriate  form, procedure and date of any review and/or hearing.
+      10.2 The Chairperson shall provide written notice of those matters set out at 10.1 above  to  any  Applicant  or  any  person  or  association  who  has  expressed  an interest in the proposed Ruling.
+      10.3 The Chairperson shall determine all matters relating to evidence and shall not be bound by judicial rules governing procedure and admissibility of evidence provided that the review and/or hearing is conducted in a fair manner with a reasonable opportunity for the relevant parties to present their case.
+      10.4 Under these procedures any review and/or hearings:
+      a. Shall take place in private.
+      b.  May be adjourned and/or postponed by the Ruling Board.
+      10.5 The  Chairperson  shall  have  the  discretion  to  co-opt  from  time  to  time additional members onto the Ruling Board with special skill or experience to deal with specific issues, which require such special skill or experience.
+      10.6 The Ruling Board shall take its decision by a simple majority. No member of the Ruling Board may abstain.
+      10.7 The  Chairperson  shall  have  the  complete  discretion  to  make  such  order against the Applicant [and/or other individuals or organisations commenting objecting or requesting information at any review and/or hearing] in relation to the costs of the application and/or the reasonable expenses incurred by the Ruling  Board  in  holding  tests  or  obtaining  reports  relating  to  equipment subject to a Ruling as he shall deem appropriate.
+    questions_and_answers:
+      - question: |-
+          Who determines the appropriate form, procedure and date of any review and/or
+          hearing?
+        answer: The Chairperson of a Ruling Board
+      - question: |-
+          What are the conditions under which a review and/or hearing can be adjourned
+          and/or postponed?
+        answer: A review and/or hearing can be adjourned and/or postponed by the Ruling
+          Board
+      - question: |-
+          Based on the provided context, if a member of the Ruling Board abstains, what
+          would happen to the decision-making process?
+        answer: No member of the Ruling Board may abstain, as per point 10.6 in the
+          context.
+  - context: |-
+      11.1 Once a Ruling Board has reached a decision it shall provide written notice to the Applicant, or any person or association who has expressed an interest in the proposed Ruling, as soon as reasonably practicable.
+      11.2 Such  written  notice  shall  include  a  summary  of  the  reasoning  behind  the decision of the Ruling Board.
+      11.3 Upon notification to the Applicant or upon such other date specified by the Ruling Board the Ruling of the Ruling Board shall be immediately binding under the Rules of Tennis.
+    questions_and_answers:
+      - question: |-
+          When is the ruling of the Ruling Board immediately binding under the Rules of
+          Tennis?
+        answer: |-
+          Upon notification to the Applicant or upon such other date specified by the
+          Ruling Board.
+      - question: |-
+          What information must be included in the written notice provided by the Ruling
+          Board?
+        answer: A summary of the reasoning behind the decision of the Ruling Board.
+  - context: |-
+      12.1 Subject to the power of the Ruling Board to issue interim Rulings the current Rules of Tennis shall continue to apply until any review and/or hearing of the Ruling Board is concluded and a Ruling issued by the Ruling Board.
+      12.2 Prior to and during any review and/or hearing the Chairperson of the Ruling Board may issue such directions as are deemed reasonably necessary in the implementation of the Rules of Tennis and of these procedures including the issue of interim Rulings.
+      12.3 Such  interim  Rulings  may  include  restraining  orders  on  the  use  of  any equipment under the Rules of Tennis pending a Ruling by the Ruling Board as to  whether  or  not  the  equipment  meets  the  specification  of  the  Rules  of Tennis.
+    questions_and_answers:
+      - question: |-
+          What body has the power to issue interim rulings under the current Rules of
+          Tennis?
+        answer: |-
+          The Ruling Board has the power to issue interim rulings under the current Rules
+          of Tennis.
+      - question: |-
+          What are the possible actions that the Chairperson of the Ruling Board can take
+          during a review and/or hearing?
+        answer: |-
+          The Chairperson of the Ruling Board can issue directions as deemed reasonably
+          necessary in the implementation of the Rules of Tennis and these procedures,
+          including the issue of interim rulings and restraining orders on the use of any
+          equipment under the Rules of Tennis pending a ruling by the Ruling Board.
+  - context: |-
+      13.1 Appeal  Tribunals  shall  be  appointed  by  the  President  or  his  designee  from members of the Board of Directors.
+      13.2 No  member  of  the  Ruling  Board  who  made  the  original  Ruling  shall  be  a member of the Appeal Tribunal.
+      13.3 The Appeal Tribunal shall comprise of such number as the President or their designee shall determine but shall be no less than three.
+      13.4 The Appeal Tribunal shall nominate one person from amongst themselves to act as Chairperson.
+      13.5 The Chairperson shall be entitled to regulate the procedures prior to and at any appeal hearing.
+    questions_and_answers:
+      - question: Who appoints the Appeal Tribunals?
+        answer: The Appeal Tribunals are appointed by the President or his designee.
+      - question: How many members should the Appeal Tribunal have at a minimum?
+        answer: The Appeal Tribunal should have no less than three members.
+      - question: |-
+          If a member of the Ruling Board made the original ruling, can they be a member
+          of the Appeal Tribunal?
+        answer: |-
+          No, a member of the Ruling Board who made the original ruling cannot be a member
+          of the Appeal Tribunal.
+  - context: |-
+      14.1 An Applicant [or a person or association who has expressed an interest and forwarded any comments, objections, or requests to a proposed Ruling] may appeal any Ruling of the Ruling Board .
+      14.2 To be valid an application for an appeal must be:
+      a. Made in writing to the Chairperson of the Ruling Board who made the Ruling  appealed  not  later  than  45  days  following  notification  of  the Ruling;
+      b. Must set out details of the Ruling appealed against; and
+      c. Must contain the full grounds of the appeal.
+      14.3 Upon receipt of a valid application to appeal the Chairperson of the Ruling Board making the original Ruling may require a reasonable appeal fee to be paid by the Appellant as a condition of appeal. Such appeal fee shall be repaid to the Appellant if the appeal is successful.
+    questions_and_answers:
+      - question: |-
+          What is the time limit for making a written appeal to the Chairperson of the
+          Ruling Board?
+        answer: 45 days following notification of the Ruling
+      - question: |-
+          What are the three requirements that an application for an appeal must fulfill
+          to be valid?
+        answer: |-
+          a. It must be made in writing to the Chairperson of the Ruling Board who made
+          the Ruling appealed not later than 45 days following notification of the Ruling,
+          b. It must set out details of the Ruling appealed against, and c. It must
+          contain the full grounds of the appeal.
+      - question: |-
+          If the Chairperson of the Ruling Board requires an appeal fee, will it be
+          refunded if the appeal is unsuccessful?
+        answer: |-
+          No, the passage does not mention that the appeal fee will be refunded if the
+          appeal is unsuccessful. It only states that the appeal fee will be repaid to the
+          Appellant if the appeal is successful.
+  - context: |-
+      17.1 If  a  Ruling Board consists of only one member that single member shall be responsible for regulating the hearing as Chairperson and shall determine the procedures to be followed prior to and during any review and/or hearing.
+      17.2 All  review  and/or  hearings  shall  be  conducted  in  English.  In  any  hearing where  an  Applicant,  and/or  other  individuals  or  organisations  commenting, objecting or requesting information do not speak English an interpreter must be present. Wherever practicable the interpreter shall be independent.
+      17.3 The  Ruling  Board  or  Appeal  Tribunal  may  publish  extracts  from  its  own Rulings.
+      17.4 All notifications to be made pursuant to these procedures shall be in writing.
+      17.5 Any notifications made pursuant to these procedures shall be deemed notified upon  the  date  that  they  were  communicated,  sent  or  transmitted  to  the Applicant or other relevant party.
+      17.6 A Ruling Board shall  have  the  discretion  to  dismiss  an  application  if  in  its reasonable opinion the application is substantially similar to an application or motion upon which a Ruling Board has made a decision and/or Ruling within the 36 months prior to the date of the application.
+    questions_and_answers:
+      - question: |-
+          Who is responsible for regulating the hearing as Chairperson in a Ruling Board
+          consisting of only one member?
+        answer: |-
+          The single member of the Ruling Board is responsible for regulating the hearing
+          as Chairperson.
+      - question: |-
+          What are the rules regarding language and interpretation during a hearing before
+          the Ruling Board or Appeal Tribunal?
+        answer: |-
+          Hearings are conducted in English. If an Applicant or other individuals or
+          organizations do not speak English, an interpreter must be present. Whenever
+          practicable, the interpreter should be independent.
+      - question: Under what circumstances can a Ruling Board dismiss an application?
+        answer: |-
+          A Ruling Board can dismiss an application if, in its reasonable opinion, the
+          application is substantially similar to an application or motion upon which a
+          Ruling Board has made a decision and/or Ruling within the 36 months prior to the
+          date of the application.
