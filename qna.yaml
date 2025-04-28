@@ -126,4 +126,8 @@ seed_examples:
         Players and other interested parties can apply for a review of the ruling in
         accordance with the International Tennis Federation's Review and Hearing
         Procedures (Appendix XII).
-
+document:
+  repo: 'https://github.com/lpanza/etx-muc.git'
+  commit: 'ef71ee122adf39028a56963512afba1c6bf1e236'
+  patterns:
+  - tennis-rules.md
