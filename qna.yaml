@@ -59,3 +59,71 @@ seed_examples:
       What is the maximum time my opponent can spend to be treated from a recoverable medical condition?
     answer: |
       A player suffering from a treatable medical condition may take one medical time-out of three minutes for the treatment of that condition. A limited number of toilet/change of attire breaks may also be allowed, but only if this is announced in advance of the match.
+- context: |-
+    In  doubles,  the  team  due  to  serve  in  the  first  game  of  each  set
+    shall  decide  which player  shall  serve  for  that  game.  Similarly,  before
+    the  second  game  starts,  their opponents  shall  decide  which  player  shall
+    serve  for  that  game.  The  partner  of  the player who served in the first
+    game shall serve in the third game and the partner of the  player  who  served
+    in  the  second  game  shall  serve  in  the  fourth  game.  This rotation shall
+    continue until the end of the set.
+  questions_and_answers:
+    - question: Who serves in the first game of a set in doubles?
+      answer: |-
+        The team due to serve in the first game of each set in doubles decides which
+        player shall serve for that game.
+    - question: |-
+        If the partner of the player who served in the first game serves in the third
+        game, what can be inferred about the service pattern in the remaining games?
+      answer: |-
+        The partner of the player who serves in the second game must serve in the fourth
+        game, following the pattern of alternating service between teams.
+- context: |-
+    The team which is due to receive in the first game of a set shall decide which
+    player shall  receive  the  first  point  in  the  game.  Similarly,  before
+    the  second  game  starts, their opponents shall decide which player shall
+    receive the first point of that game. The player who was the receiver's partner
+    for the first point of the game shall receive the second point and this rotation
+    shall continue until the end of the game and the set. After the receiver has
+    returned the ball, either player in a team can hit the ball.
+  questions_and_answers:
+    - question: Who decides which player receives the first point in the second
+        game?
+      answer: The opponents of the team that received in the first game.
+    - question: If a team is serving, can both players hit the ball before it is
+        returned?
+      answer: |-
+        No, only after the receiver has returned the ball can either player in a team
+        hit it.
+- context: |-
+    The International Tennis Federation shall rule on the question of whether any
+    such equipment  is  approved,  or  not  approved.  Such  ruling  may  be  taken
+    on  its  own initiative,  or  upon  application  by  any  party  with  a  bona
+    fide  interest  therein, including any player, equipment manufacturer or
+    National Association or members thereof.  Such  rulings  and  applications
+    shall  be  made  in  accordance  with  the applicable  Review  and  Hearing
+    Procedures  of  the  International  Tennis  Federation (see Appendix XII).
+  questions_and_answers:
+    - question: |-
+        Who can make an application to the International Tennis Federation regarding
+        equipment approval?
+      answer: |-
+        Any player, equipment manufacturer, National Association, or members thereof can
+        make an application to the International Tennis Federation regarding equipment
+        approval.
+    - question: |-
+        What are the ways in which a ruling on equipment approval can be initiated by
+        the International Tennis Federation?
+      answer: |-
+        The International Tennis Federation can initiate a ruling on equipment approval
+        on its own or upon application by any party with a bona fide interest therein,
+        including any player, equipment manufacturer, National Association, or members
+        thereof.
+    - question: |-
+        If a player disagrees with the International Tennis Federation's ruling on
+        equipment approval, what recourse do they have?
+      answer: |-
+        Players and other interested parties can apply for a review of the ruling in
+        accordance with the International Tennis Federation's Review and Hearing
+        Procedures (Appendix XII).
+
