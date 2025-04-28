@@ -6,3 +6,27 @@ document_outline: |
   The International Tennis Federation (ITF) is the governing body of the game of
   tennis and its duties and responsibilities include protecting the integrity of the game
   through determination of the Rules of Tennis.
+- context: |
+    The International Tennis Federation shall rule on the question of whether any ball or prototype complies with Appendix I or is otherwise approved, or not approved, for play. Such ruling may be taken on its own initiative or upon application by any party with a bona fide interest therein, including  any player, equipment manufacturer or National  Association  or  members  thereof.  Such  rulings  and  applications  shall  be made  in  accordance  with  the  applicable  Review  and  Hearing  Procedures  of  the International Tennis Federation (see Appendix XII).
+    The event organisers must announce in advance of the event:
+    - a. The number of balls for play (2, 3, 4 or 6).
+    - b. The ball change policy, if any.
+    Ball changes, if any, can be made either:
+    - i. After an agreed odd number of games, in which case, the first ball change in the match shall take place two games earlier than for the rest of the match, to make allowance for the warm-up. A tie-break game counts as one game for the ball change. A ball change shall not take place at the beginning of a tie-break game: in this case, the ball change shall be delayed until the beginning of the second game of the next set; or
+    - ii. At the beginning of a set
+    If a ball gets broken during play, the point shall be replayed.
+    If a ball is soft at the end of a point, should the point be replayed? Decision: If the ball is soft, not broken, the point shall not be replayed.
+    Note: Any ball to be used in a tournament which is played under the Rules of Tennis must be named on the official ITF list of approved balls issued by the International Tennis Federation.
+  questions_and_answers:
+  - question: |
+      How many tennis balls can be used in a match?
+    answer: |
+      The event organisers must decide how many tennis balls are available for play (2, 3, 4 or 6)
+  - question: |
+      Are ball changes allowed?
+    answer: |
+      Balls can be changed either after an agreed number of odd games, or at the beginning of a set.
+  - question: |
+      What if a ball breaks in the middle of a point?
+    answer: |
+      If a ball gets broken during play, it shall be replaced and the point shall be replayed.
